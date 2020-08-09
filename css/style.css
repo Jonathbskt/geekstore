@@ -1,0 +1,104 @@
+p {
+  font-family: 'Poppins',
+    sans-serif;
+}
+
+.img-principal {
+  height: 30vh;
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  background-image: url(../img/Banner/z490-1191×200.jpg);
+}
+
+.titulo-logo {
+  font-family: 'Poppins',
+    sans-serif;
+  font-size: 30px;
+  line-height: 0.5;
+  padding-top: 9px;
+}
+
+.busqueda {
+  border-radius: 30px;
+}
+
+.busqueda__boton {
+  border-top-right-radius: 30px !important;
+  border-bottom-right-radius: 30px !important;
+}
+
+.fa-search {
+  color: #ffffff;
+}
+
+.precio {
+  color: green;
+  font-size: 20px;
+}
+
+.nav-link {
+  color: #ffffff !important;
+}
+
+.nav-link:hover {
+  color: #909090 !important;
+}
+
+.img-box img {
+  width: 300px;
+}
+
+.titulo {
+  margin-top: 50px;
+}
+
+.price {
+  color: green;
+}
+
+.card-img {
+  cursor: pointer;
+}
+
+.ultimosIngresos {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.banner {
+  padding-top: 50px;
+  padding-bottom: 50px;
+
+}
+
+.banner-marcas-img {
+  cursor: pointer;
+}
+
+.marcas {
+  margin: 0 auto;
+  margin-left: 80px;
+}
+
+.masVendidos {
+  padding-bottom: 100px;
+}
+
+.fab {
+  font-size: 40px;
+  margin: 0px 20px 0px 20px;
+  color: #ffffff;
+}
+
+.fab:hover {
+  color: orange;
+}
+
+.titulos-footer {
+  color: #ffffff;
+}
+
+hr {
+  color: #ffffff;
+}
